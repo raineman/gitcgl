@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="value" label="Value" language="en" table="x_60342_gitcgl_some_table_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>value</element>
+            <help/>
+            <hint/>
+            <label>Value</label>
+            <language>en</language>
+            <name>x_60342_gitcgl_some_table_test</name>
+            <plural>Values</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-23 20:41:33</sys_created_on>
+            <sys_id>872eed19dbc11300e571de90cf961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Value</sys_name>
+            <sys_package display_value="gitcgl" source="x_60342_gitcgl">4dbd2911db011300e571de90cf9619ed</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="gitcgl">4dbd2911db011300e571de90cf9619ed</sys_scope>
+            <sys_update_name>sys_documentation_x_60342_gitcgl_some_table_test_value_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-23 20:41:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

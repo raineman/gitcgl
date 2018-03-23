@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Some Table Test">7e2ead19dbc11300e571de90cf9619ed</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Some Table Tests</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_60342_gitcgl_some_table_test</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_60342_gitcgl.some_table_test_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-23 20:41:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>762ead19dbc11300e571de90cf9619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Some Table Tests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="gitcgl" source="x_60342_gitcgl">4dbd2911db011300e571de90cf9619ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="gitcgl">4dbd2911db011300e571de90cf9619ed</sys_scope>
+        <sys_update_name>sys_app_module_762ead19dbc11300e571de90cf9619f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-23 20:41:32</sys_updated_on>
+        <timeline_page/>
+        <title>Some Table Tests</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

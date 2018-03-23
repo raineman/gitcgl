@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-23 20:41:32</sys_created_on>
+        <sys_id>f22eed19dbc11300e571de90cf961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_60342_gitcgl_some_table_test.x_60342_gitcgl.some_table_test_user</sys_name>
+        <sys_package display_value="gitcgl" source="x_60342_gitcgl">4dbd2911db011300e571de90cf9619ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="gitcgl">4dbd2911db011300e571de90cf9619ed</sys_scope>
+        <sys_security_acl display_value="x_60342_gitcgl_some_table_test">fa2ead19dbc11300e571de90cf9619fd</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f22eed19dbc11300e571de90cf961900</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-23 20:41:32</sys_updated_on>
+        <sys_user_role display_value="x_60342_gitcgl.some_table_test_user" name="x_60342_gitcgl.some_table_test_user">622ea95ddb811300e571de90cf9619ab</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
